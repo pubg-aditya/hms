@@ -1,0 +1,11 @@
+body{
+    background-color: rgb(106, 147, 198);
+}
+title{
+    text-align: center;
+    text-decoration: black;
+}
+h1{
+    text-align: center;
+    text-decoration: double;
+}
